@@ -1,0 +1,8 @@
+auth0:
+  audience: http://kotlinexample.businesscontentapi
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://dev-7bwh4vej.us.auth0.com/
