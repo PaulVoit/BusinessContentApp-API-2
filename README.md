@@ -1,2 +1,2 @@
 # BusinessContentApp-API
-API for BusinessAppContent2 is made using SpringBoot + H2 database
+API for BusinessAppContent2 is made using SpringBoot(JPA, Security - OAuth2), H2 database, Gradle
